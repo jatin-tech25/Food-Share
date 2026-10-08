@@ -1,0 +1,6 @@
+{
+  "name": "Food Share - Reduce Waste, Feed Need",
+  "description": "A community-driven platform connecting food providers, NGOs, and volunteers to eliminate surplus food waste and feed those in need.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
